@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(37, 52, 75)" />
+      <stop offset="100%" stop-color="rgb(13, 28, 51)" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#g)" />
+  <path d="M 243 912 L 243 375 A 207 207 0 0 1 657 375 L 657 912 Z" fill="rgb(49, 64, 87)" fill-opacity="0.55" />
+  
+    <circle cx="844" cy="56" r="26" fill="none" stroke="#F0E9DD" stroke-opacity="0.5" stroke-width="1.5" />
+    <text x="844" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#F0E9DD" fill-opacity="0.75" text-anchor="middle">S14</text>
+  
+  <text x="40" y="1136" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#F0E9DD">Studio Zip Jacket — Navy</text>
+  <text x="40" y="1166" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#F0E9DD" fill-opacity="0.7">Side angle</text>
+</svg>

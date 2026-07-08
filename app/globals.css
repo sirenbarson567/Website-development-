@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-fraunces: "Fraunces", "Georgia", serif;
+  --font-inter: "Inter", "Helvetica", "Arial", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f0e9dd;
+  color: #1b2a41;
+}
+
+::selection {
+  background-color: #b08d57;
+  color: #f0e9dd;
+}
+
+/* Visible focus ring on every interactive element, keyboard or not */
+:focus-visible {
+  outline: 2px solid #b08d57;
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
