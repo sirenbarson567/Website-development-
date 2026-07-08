@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(84, 103, 68)" />
+      <stop offset="100%" stop-color="rgb(60, 79, 44)" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#g)" />
+  <path d="M 324 1216 L 324 500 A 276 276 0 0 1 876 500 L 876 1216 Z" fill="rgb(96, 115, 80)" fill-opacity="0.55" />
+  
+    <circle cx="1144" cy="56" r="26" fill="none" stroke="#F0E9DD" stroke-opacity="0.5" stroke-width="1.5" />
+    <text x="1144" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#F0E9DD" fill-opacity="0.75" text-anchor="middle">S14</text>
+  
+  <text x="40" y="1536" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#F0E9DD">Reformer Set</text>
+  <text x="40" y="1566" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#F0E9DD" fill-opacity="0.7">Sage — placeholder frame</text>
+</svg>
